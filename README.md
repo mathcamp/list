@@ -3,6 +3,8 @@
 ## Client 
 [Cyklic (Android UI Components)](https://github.com/bkase/cyklic)
 
+[Dogtag (iOs Ui components. Look at Cyklic README for details)](https://github.com/mathcamp/dogtag)
+
 [Lightbase (Swifty Sqlite wrapper)](https://github.com/mathcamp/lightbase)
 
 [StoredObject (Android db)](https://github.com/mathcamp/storedobject)
@@ -11,12 +13,14 @@
 
 [Fiberglass (Lightweight shared preferences for kotlin)](https://github.com/mathcamp/fiberglass)
 
+[Cheatsheet (Kotlin extenstions)](https://github.com/mathcamp/cheatsheet)
 ## Server
 [Phone (Phone parsing library)](https://github.com/mathcamp/phone)
 
 [Concrunner (Run and combine multiple functions concurrently in go)](https://github.com/revantk/concrunner)
 
 [Yatz (A/B testing framework for go appengine apps)](https://github.com/mathcamp/yatz)
+
 
 
 # Other systems we built
